@@ -1,0 +1,42 @@
+.nameInput{
+    width: 400px;          /* Set a specific width */
+    height: 40px;          /* Set a specific height */
+    padding: 10px;         /* Add padding for better spacing */
+    font-size: 16px;
+    border: 1px solid #ccc; /* Optional: border styling */
+    border-radius: 5px;    /* Optional: rounded corners */
+}
+
+.userEmail{
+    width: 400px;          /* Set a specific width */
+    height: 40px;          /* Set a specific height */
+    padding: 10px;         /* Add padding for better spacing */
+    font-size: 16px;
+    border: 1px solid #ccc; /* Optional: border styling */
+    border-radius: 5px;    /* Optional: rounded corners */
+}
+
+.userPassword{
+    width: 400px;          /* Set a specific width */
+    height: 40px;          /* Set a specific height */
+    padding: 10px;         /* Add padding for better spacing */
+    font-size: 16px;
+    border: 1px solid #ccc; /* Optional: border styling */
+    border-radius: 5px;    /* Optional: rounded corners */
+}
+
+.btn{
+    width: 400px;          /* Set a specific width */
+    height: 40px;          /* Set a specific height */
+    padding: 10px;         /* Add padding for better spacing */
+    font-size: 16px;
+    border: 1px solid #ccc; /* Optional: border styling */
+    border-radius: 5px;    /* Optional: rounded corners */
+    font-weight: bold;
+}
+.display-container{
+    background-color: skyblue;
+}
+.form-Id{
+    border-radius: rgb(11, 10, 10) ;
+}
